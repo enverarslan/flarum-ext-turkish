@@ -14,9 +14,6 @@
         "flarum/core": "^0.1.0-beta.7"
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "0.1.x-dev"
-        },
         "flarum-extension": {
             "title": "Turkish",
             "icon": {
