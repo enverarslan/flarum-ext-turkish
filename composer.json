@@ -1,0 +1,34 @@
+{
+    "name": "enver/flarum-ext-turkish",
+    "type": "flarum-extension",
+    "description": "Turkish language pack.",
+    "keywords": ["locale"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Enver Arslan",
+            "email": "enver@programmer.net"
+        }
+    ],
+    "require": {
+        "flarum/core": "^0.1.0-beta.7"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        },
+        "flarum-extension": {
+            "title": "Turkish",
+            "icon": {
+                "image": "icon.svg",
+                "backgroundColor": "#ff0000",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center"
+            }
+        },
+        "flarum-locale": {
+            "code": "tr",
+            "title": "Turkish"
+        }
+    }
+}
