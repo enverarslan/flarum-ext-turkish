@@ -9,7 +9,7 @@ core:
 
     # These translations are used in the placeholder Add Extension modal dialog.
     add_extension:
-      developer_text: "Geliştiriciyseniz, <a>dokümanı okuyabilir</a> ve kenti eklentilerinizi oluşturabilirsiniz."
+      developer_text: "Geliştiriciyseniz, <a>dokümanı okuyabilir</a> ve kendi eklentilerinizi oluşturabilirsiniz."
       install_text: "Aynı zamanda, <a>Flarum Topluluk sitesinden</a> eklentilere bakabilir ve Composer kullanarak elle yükleyebilirsiniz."
       temporary_text: "Çok uzak olmayan bir gelecekte, bu diyalog forumunuza eklentileri kolaylıkla eklemenize izin verecek. Konuştuğumuz gibi bir ekosistem oluşturuyoruz!"
       title: Eklenti Ekle
@@ -97,7 +97,7 @@ core:
       port_label: Port
       server_heading: SMTP Sunucu
       submit_button: => core.ref.save_changes
-      text: Forumun e-posta göndermek için kullanacağı SMTP ayarlarını ve adreslerini ayarlayın.
+      text: Forumun e-posta göndermek için kullanacağı SMTP ayarlarını ve adreslerini yapılandırın.
       username_label: => core.ref.username
 
     # These translations are used in the Extensions page.
@@ -119,7 +119,7 @@ core:
       appearance_button: Görünüm
       appearance_text: "Forumunuzun renklerini, logolarını ve diğer değişkenleri özelleştirin."
       basics_button: Temeller
-      basics_text: "Gorum başlığını, dilini ve diğer basit ayarları yapın."
+      basics_text: "Forum başlığını, dilini ve diğer basit ayarları yapın."
       dashboard_button: Panel
       dashboard_text: Bir bakışta forumunuz.
       email_button: => core.ref.email

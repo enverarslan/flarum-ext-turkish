@@ -21,7 +21,7 @@ flarum-likes:
 
     # These translations are displayed beneath individual posts.
     post:
-      like_link: Like
+      like_link: Beğen
       liked_by_self_text: "{users} beğendi."  # Can be pluralized to agree with the number of users!
       liked_by_text: "{users} beğendi.|{users} beğendi."
       others_link: => core.ref.some_others
