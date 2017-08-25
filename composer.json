@@ -30,5 +30,7 @@
             "code": "tr",
             "title": "Turkish"
         }
-    }
+    },
+    "minimum-stability": "beta",
+    "prefer-stable": true
 }
